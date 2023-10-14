@@ -1,0 +1,79 @@
+.title{
+    text-align: center;
+}
+.main{
+    display:flex;
+     flex-direction: row;
+     justify-content: space-evenly;
+     padding: 20px 24px;
+     font-size: 24px;
+}
+.topnav a {
+    text-decoration: none;
+    margin-left: 40px;
+    color: burlywood;
+
+
+}
+.body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 200px;
+}
+.main-container{
+    background-image:c:\Users\ASHOKKUMAR M\Pictures\aircraft-37.jpg;
+    
+}
+
+.nav-btn{
+    color: whitesmoke;
+    background-color: #7590d6;
+    padding: 10px;
+    border-color: white;
+    
+}
+.sub-signup{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    padding-left: 30px;
+    padding-top: 40px;
+}
+h3{
+    text-align: center;
+    
+}
+input{
+    width: 80%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+.btn-one{
+    color: whitesmoke;
+    background-color:greenyellow;
+    padding: 10px;
+    border-color: white;
+    border-radius: 10px;
+
+}
+.btn-two{
+    color: white;
+    background-color:blue;
+    padding: 10px;
+    width: 70%;
+    border-color: white;
+    border-radius: 10px;
+    margin-right: 50px;
+}
+.signup{
+    padding: 100px;
+    
+}
+.sub-main{
+    height: 400px;
+    margin-left: 40px;
+}
